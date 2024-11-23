@@ -31,8 +31,7 @@ The project dataset includes the following columns:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/multimodal-elearning-recommender.git
-   cd multimodal-elearning-recommender
+   git clone https://github.com/aarush-glitch/Knowledge-Graph-Based-Multimodal-E-Learning-Recommender-System.git
    ```  
 
 2. Install and set up **Neo4j**:  
